@@ -1,18 +1,33 @@
-body{
+body {
     margin: 30px;
     font-family: monospace;
 }
-a{
+
+a {
     color: green;
     text-decoration: none;
 }
-a:hover{
+
+a:hover {
     color: salmon;
 }
-.atas{
+
+.atas {
     height: 50px;
     background-color: #86bd86;
     padding: 30px;
-                    border-bottom: 5px solid #0c560c;
+    border-bottom: 5px solid #0c560c;
     font-size: 30px;
+}
+
+.table-responsive {
+    width: 550px;
+    padding-bottom: 25px;
+}
+
+.table {
+    width: 100%;
+    font-size: large;
+    font-weight: bold;
+    border: 0;
 }
