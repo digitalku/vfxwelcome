@@ -31,3 +31,7 @@ a:hover {
     font-weight: bold;
     border: 0;
 }
+
+tr td a {
+    font-size: 20px
+}
