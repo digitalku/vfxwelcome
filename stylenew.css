@@ -1,5 +1,5 @@
 :root {
-    --primary: #0d6efd;
+    --primary: #05386B;
     --primary-soft: #e9f2ff;
     --text: #1f2937;
     --muted: #6b7280;
@@ -44,7 +44,7 @@ body {
 
 /* HERO */
 .hero {
-    background: linear-gradient(135deg, #0d6efd, #3b82f6);
+    background: #05386B;
     color: #fff;
     padding: 36px;
     border-radius: var(--radius);
@@ -209,3 +209,4 @@ pre {
 code {
     font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
 }
+
