@@ -1,0 +1,43 @@
+# MT Broker Download List
+# Format tiap baris: VERSI|Nama Broker|URL
+# VERSI harus MT4 atau MT5
+# Baris kosong dan diawali '#' diabaikan
+
+# ── MT4 ──
+MT4|FBS|https://download.mql5.com/cdn/web/fbs.markets.inc/mt4/fbs4setup.exe
+MT4|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt4/xmglobal4setup.exe
+MT4|Tickmill|https://download.mql5.com/cdn/web/17409/mt4/tickmill4setup.exe
+MT4|JustForex|https://download.mql5.com/cdn/web/just.global.markets/mt4/justmarkets4setup.exe
+MT4|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt4/weltrade4setup.exe
+MT4|InstaForex|https://www.instaforex.com/downloads/itc4setup.exe
+MT4|OctaFX|https://download.mql5.com/cdn/web/octa.markets.incorporated/mt4/octafx4setup.exe
+MT4|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt4/headway4setup.exe
+MT4|Exness|https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt4/exness4setup.exe
+MT4|HFM|https://download.mql5.com/cdn/web/7399/mt4/hfmarketssv4setup.exe
+MT4|IC Markets|https://download.mql5.com/cdn/web/18036/mt4/icmarketssc4setup.exe
+MT4|FXTM|https://download.mql5.com/cdn/web/16626/mt4/forextimefxtm4setup.exe
+MT4|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt4/pepperstone4setup.exe
+MT4|CXM Direct|https://download.mql5.com/cdn/web/16845/mt4/cxmdirect4setup.exe
+MT4|FX Clearing|https://download.mql5.com/cdn/web/fxcl.markets.ltd/mt4/fxcl4setup.exe
+MT4|AximTrade|https://download.mql5.com/cdn/web/18441/mt4/aximtrade2setup.exe
+MT4|Vantage|https://download.metatrader.com/cdn/web/14009/mt4/vantageinternational4setup.exe
+
+# ── MT5 ──
+MT5|FBS|https://download.mql5.com/cdn/web/fbs.markets.inc/mt5/fbs5setup.exe
+MT5|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt5/xmglobal5setup.exe
+MT5|Tickmill|https://download.mql5.com/cdn/web/19497/mt5/tickmill5setup.exe
+MT5|JustForex|https://download.mql5.com/cdn/web/just.global.markets/mt5/justmarkets5setup.exe
+MT5|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt5/weltrade5setup.exe
+MT5|InstaForex|https://download.mql5.com/cdn/web/instafintech.ltd/mt5/instaforex5setup.exe
+MT5|OctaFX|https://download.mql5.com/cdn/web/instafintech.ltd/mt5/instaforex5setup.exe
+MT5|Exness|https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt5/exness5setup.exe
+MT5|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt5/headway5setup.exe
+MT5|HFM|https://download.mql5.com/cdn/web/12018/mt5/hfmarketsglobal5setup.exe
+MT5|IC Markets|https://download.mql5.com/cdn/web/18040/mt5/icmarketssc5setup.exe
+MT5|FXTM|https://download.mql5.com/cdn/web/16628/mt5/forextimefxtm5setup.exe
+MT5|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt5/pepperstone5setup.exe
+MT5|CXM Direct|https://download.mql5.com/cdn/web/22250/mt5/cxmdirect5setup.exe
+MT5|ThinkMarkets|https://download.mql5.com/cdn/web/tf.global.markets/mt4/thinkmarkets4setup.exe
+MT5|Deriv|https://download.mql5.com/cdn/web/deriv.com.limited/mt5/deriv5setup.exe
+MT5|Vantage|https://download.metatrader.com/cdn/web/14111/mt5/vantageinternational5setup.exe
+MT5|MT5 Umum|https://download.mql5.com/cdn/web/metaquotes.ltd/mt5/mt5setup.exe
