@@ -13,6 +13,7 @@ MT4|InstaForex|https://www.instaforex.com/downloads/itc4setup.exe
 MT4|OctaFX|https://download.mql5.com/cdn/web/octa.markets.incorporated/mt4/octafx4setup.exe
 MT4|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt4/headway4setup.exe
 MT4|Exness|https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt4/exness4setup.exe
+MT4|Elev8|https://download.terminal.free/cdn/web/elev8.markets.ltd/mt4/elev84setup.exe
 MT4|HFM|https://download.mql5.com/cdn/web/7399/mt4/hfmarketssv4setup.exe
 MT4|IC Markets|https://download.mql5.com/cdn/web/18036/mt4/icmarketssc4setup.exe
 MT4|FXTM|https://download.mql5.com/cdn/web/16626/mt4/forextimefxtm4setup.exe
@@ -32,6 +33,7 @@ MT5|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt5/weltrade5
 MT5|InstaForex|https://download.mql5.com/cdn/web/instafintech.ltd/mt5/instaforex5setup.exe
 MT5|OctaFX|https://download.terminal.free/cdn/web/octa.markets.incorporated/mt5/octafx5setup.exe
 MT5|Exness|https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt5/exness5setup.exe
+MT5|Elev8|https://download.terminal.free/cdn/web/elev8.markets.ltd/mt5/elev85setup.exe
 MT5|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt5/headway5setup.exe
 MT5|HFM|https://download.mql5.com/cdn/web/12018/mt5/hfmarketsglobal5setup.exe
 MT5|IC Markets|https://download.mql5.com/cdn/web/18040/mt5/icmarketssc5setup.exe
