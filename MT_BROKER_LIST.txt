@@ -17,6 +17,7 @@ MT4|Elev8|https://download.terminal.free/cdn/web/elev8.markets.ltd/mt4/elev84set
 MT4|HFM|https://download.mql5.com/cdn/web/7399/mt4/hfmarketssv4setup.exe
 MT4|IC Markets|https://download.mql5.com/cdn/web/18036/mt4/icmarketssc4setup.exe
 MT4|FXTM|https://download.mql5.com/cdn/web/16626/mt4/forextimefxtm4setup.exe
+MT4|Markets4you|https://download.terminal.free/cdn/web/20142/mt4/eglobaltrade4setup.exe
 MT4|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt4/pepperstone4setup.exe
 MT4|CXM Direct|https://download.mql5.com/cdn/web/16845/mt4/cxmdirect4setup.exe
 MT4|FX Clearing|https://download.mql5.com/cdn/web/fxcl.markets.ltd/mt4/fxcl4setup.exe
@@ -38,6 +39,7 @@ MT5|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt5/headway5setup.
 MT5|HFM|https://download.mql5.com/cdn/web/12018/mt5/hfmarketsglobal5setup.exe
 MT5|IC Markets|https://download.mql5.com/cdn/web/18040/mt5/icmarketssc5setup.exe
 MT5|FXTM|https://download.mql5.com/cdn/web/16628/mt5/forextimefxtm5setup.exe
+MT5|Markets4you|https://download.terminal.free/cdn/web/eglobal.trade.and/mt5/eglobaltrade5setup.exe
 MT5|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt5/pepperstone5setup.exe
 MT5|CXM Direct|https://download.mql5.com/cdn/web/22250/mt5/cxmdirect5setup.exe
 MT5|ThinkMarkets|https://download.terminal.free/cdn/web/tf.global.markets/mt5/thinkmarkets5setup.exe
