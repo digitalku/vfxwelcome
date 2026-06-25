@@ -1,4 +1,5 @@
 # MT Broker Download List
+# Untuk MT Manager
 # Format tiap baris: VERSI|Nama Broker|URL
 # VERSI harus MT4 atau MT5
 # Baris kosong dan diawali '#' diabaikan
