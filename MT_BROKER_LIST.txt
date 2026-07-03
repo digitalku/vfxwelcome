@@ -16,7 +16,7 @@ MT4|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt4/headway4setup.
 MT4|HFM|https://download.mql5.com/cdn/web/7399/mt4/hfmarketssv4setup.exe
 MT4|IC Markets|https://download.mql5.com/cdn/web/18036/mt4/icmarketssc4setup.exe
 MT4|InstaForex|https://www.instaforex.com/downloads/itc4setup.exe
-MT4|JustForex|https://download.mql5.com/cdn/web/just.global.markets/mt4/justmarkets4setup.exe
+MT4|JustMarkets|https://download.mql5.com/cdn/web/just.global.markets/mt4/justmarkets4setup.exe
 MT4|Markets4you|https://download.terminal.free/cdn/web/20142/mt4/eglobaltrade4setup.exe
 MT4|OctaFX|https://download.mql5.com/cdn/web/octa.markets.incorporated/mt4/octafx4setup.exe
 MT4|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt4/pepperstone4setup.exe
@@ -38,7 +38,7 @@ MT5|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt5/headway5setup.
 MT5|HFM|https://download.mql5.com/cdn/web/12018/mt5/hfmarketsglobal5setup.exe
 MT5|IC Markets|https://download.mql5.com/cdn/web/18040/mt5/icmarketssc5setup.exe
 MT5|InstaForex|https://download.mql5.com/cdn/web/instafintech.ltd/mt5/instaforex5setup.exe
-MT5|JustForex|https://download.mql5.com/cdn/web/just.global.markets/mt5/justmarkets5setup.exe
+MT5|JustMarkets|https://download.mql5.com/cdn/web/just.global.markets/mt5/justmarkets5setup.exe
 MT5|Markets4you|https://download.terminal.free/cdn/web/eglobal.trade.and/mt5/eglobaltrade5setup.exe
 MT5|MT5 Umum|https://download.mql5.com/cdn/web/metaquotes.ltd/mt5/mt5setup.exe
 MT5|OctaFX|https://download.terminal.free/cdn/web/octa.markets.incorporated/mt5/octafx5setup.exe
