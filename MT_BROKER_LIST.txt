@@ -5,7 +5,7 @@
 # Baris kosong dan diawali '#' diabaikan
 
 # ── MT4 ──
-MT4|AximTrade|https://download.mql5.com/cdn/web/18441/mt4/aximtrade2setup.exe
+MT4|Axi|https://download.mql5.com/cdn/web/axicorp.financial.services/mt4/axi4setup.exe
 MT4|CXM Direct|https://download.mql5.com/cdn/web/16845/mt4/cxmdirect4setup.exe
 MT4|Elev8|https://download.terminal.free/cdn/web/elev8.markets.ltd/mt4/elev84setup.exe
 MT4|Exness|https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt4/exness4setup.exe
@@ -27,6 +27,7 @@ MT4|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt4/weltrade4
 MT4|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt4/xmglobal4setup.exe
 
 # ── MT5 ──
+MT5|Axi|https://download.mql5.com/cdn/web/axicorp.financial.services/mt5/axi5setup.exe
 MT5|CXM Direct|https://download.mql5.com/cdn/web/22250/mt5/cxmdirect5setup.exe
 MT5|Deriv|https://download.mql5.com/cdn/web/deriv.com.limited/mt5/deriv5setup.exe
 MT5|Dupoin|https://download.mql5.com/cdn/web/23187/mt5/dupoinfuturesid5setup.exe
