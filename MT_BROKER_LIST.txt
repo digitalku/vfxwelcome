@@ -3,6 +3,7 @@
 # Format tiap baris: VERSI|Nama Broker|URL
 # VERSI harus MT4 atau MT5
 # Baris kosong dan diawali '#' diabaikan
+# Supaya tetap rapi, urutkan berdasarkan Nama
 
 # ── MT4 ──
 MT4|Axi|https://download.mql5.com/cdn/web/axicorp.financial.services/mt4/axi4setup.exe
