@@ -23,6 +23,7 @@ MT4|Markets4you|https://download.terminal.free/cdn/web/20142/mt4/eglobaltrade4se
 MT4|OctaFX|https://download.mql5.com/cdn/web/octa.markets.incorporated/mt4/octafx4setup.exe
 MT4|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt4/pepperstone4setup.exe
 MT4|Tickmill|https://download.mql5.com/cdn/web/17409/mt4/tickmill4setup.exe
+MT4|Ultima|https://download.terminal.free/cdn/web/ultima.markets.ltd/mt4/ultimamarkets4setup.exe
 MT4|Valetax|https://download.terminal.free/cdn/web/valetax.international.limited/mt4/valetaxintl4setup.exe
 MT4|Vantage|https://download.metatrader.com/cdn/web/14009/mt4/vantageinternational4setup.exe
 MT4|VT Markets|https://download.terminal.free/cdn/web/vt.markets.pty/mt4/vtmarkets4setup.exe
@@ -50,6 +51,7 @@ MT5|OctaFX|https://download.terminal.free/cdn/web/octa.markets.incorporated/mt5/
 MT5|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt5/pepperstone5setup.exe
 MT5|ThinkMarkets|https://download.terminal.free/cdn/web/tf.global.markets/mt5/thinkmarkets5setup.exe
 MT5|Tickmill|https://download.mql5.com/cdn/web/19497/mt5/tickmill5setup.exe
+MT5|Ultima|https://download.terminal.free/cdn/web/ultima.markets.ltd/mt5/ultimamarkets5setup.exe
 MT5|Valetax Global|https://download.terminal.free/cdn/web/valetax.global.limited/mt5/valetaxglobal5setup.exe
 MT5|Valetax International|https://download.terminal.free/cdn/web/valetax.international.limited/mt5/valetaxintl5setup.exe
 MT5|Vantage|https://download.metatrader.com/cdn/web/14111/mt5/vantageinternational5setup.exe
