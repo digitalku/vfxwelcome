@@ -7,7 +7,6 @@
 
 # ── MT4 ──
 MT4|Axi|https://download.mql5.com/cdn/web/axicorp.financial.services/mt4/axi4setup.exe
-MT4|CXM Direct|https://download.mql5.com/cdn/web/16845/mt4/cxmdirect4setup.exe
 MT4|Elev8|https://download.terminal.free/cdn/web/elev8.markets.ltd/mt4/elev84setup.exe
 MT4|Exness|https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt4/exness4setup.exe
 MT4|FBS|https://download.mql5.com/cdn/web/fbs.markets.inc/mt4/fbs4setup.exe
