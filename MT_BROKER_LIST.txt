@@ -25,7 +25,7 @@ MT4|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt4/
 MT4|Tickmill|https://download.mql5.com/cdn/web/17409/mt4/tickmill4setup.exe
 MT4|Ultima|https://download.terminal.free/cdn/web/ultima.markets.ltd/mt4/ultimamarkets4setup.exe
 MT4|Valetax|https://download.terminal.free/cdn/web/valetax.international.limited/mt4/valetaxintl4setup.exe
-MT4|Vantage|https://download.metatrader.com/cdn/web/14009/mt4/vantageinternational4setup.exe
+MT4|Vantage|https://www.vantagemarkets.com/files/download-20180830/MT4_Windows/
 MT4|VT Markets|https://download.terminal.free/cdn/web/vt.markets.pty/mt4/vtmarkets4setup.exe
 MT4|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt4/weltrade4setup.exe
 MT4|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt4/xmglobal4setup.exe
