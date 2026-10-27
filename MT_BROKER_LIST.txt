@@ -13,18 +13,18 @@ MT4|FBS|https://download.mql5.com/cdn/web/fbs.markets.inc/mt4/fbs4setup.exe
 MT4|Firewoodfx|https://download.terminal.free/cdn/web/firewood.global.ltd/mt4/firewoodfx4setup.exe
 MT4|FTMO|https://download.terminal.free/cdn/web/ftmo.global.markets/mt4/ftmo4setup.exe
 MT4|FX Clearing|https://download.mql5.com/cdn/web/fxcl.markets.ltd/mt4/fxcl4setup.exe
-MT4|FXTM|https://download.mql5.com/cdn/web/16626/mt4/forextimefxtm4setup.exe
+MT4|FXTM|https://download.terminal.free/cdn/web/16626/mt4/forextimefxtm4setup.exe
 MT4|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt4/headway4setup.exe
 MT4|HFM|https://download.terminal.free/cdn/web/7399/mt4/hfmarketssv4setup.exe
 MT4|IC Markets|https://download.mql5.com/cdn/web/18036/mt4/icmarketssc4setup.exe
 MT4|Instaforex|https://www.instaforex.com/downloads/itc4setup.exe
-MT4|JustMarkets|https://download.mql5.com/cdn/web/just.global.markets/mt4/justmarkets4setup.exe
+MT4|JustMarkets|https://download.terminal.free/cdn/web/just.global.markets/mt4/justmarkets4setup.exe
 MT4|Markets4you|https://download.terminal.free/cdn/web/20142/mt4/eglobaltrade4setup.exe
 MT4|OctaFX|https://download.mql5.com/cdn/web/octa.markets.incorporated/mt4/octafx4setup.exe
 MT4|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt4/pepperstone4setup.exe
 MT4|PU Prime|https://download.mql5.com/cdn/web/pu.prime.ltd/mt4/puprime4setup.exe
 MT4|TradingPro Int|https://download.mql5.com/cdn/web/tradingpro.international.limited/mt4/tradingprointernational4setup.exe
-MT4|Tickmill|https://download.mql5.com/cdn/web/17409/mt4/tickmill4setup.exe
+MT4|Tickmill|https://download.terminal.free/cdn/web/17409/mt4/tickmill4setup.exe
 MT4|Ultima|https://download.terminal.free/cdn/web/ultima.markets.ltd/mt4/ultimamarkets4setup.exe
 MT4|Valetax|https://download.terminal.free/cdn/web/valetax.international.limited/mt4/valetaxintl4setup.exe
 MT4|Vantage|https://download.terminal.free/cdn/web/vantage.markets.pty/mt4/vantagemarkets4setup.exe
@@ -42,20 +42,20 @@ MT5|Exness|https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt5/e
 MT5|FBS|https://download.mql5.com/cdn/web/fbs.markets.inc/mt5/fbs5setup.exe
 MT5|Finex|https://download.terminal.free/cdn/web/22020/mt5/finexbisnissolusi5setup.exe
 MT5|FTMO|https://download.terminal.free/cdn/web/ftmo.global.markets/mt5/ftmo5setup.exe
-MT5|FXTM|https://download.mql5.com/cdn/web/16628/mt5/forextimefxtm5setup.exe
+MT5|FXTM|https://download.terminal.free/cdn/web/16628/mt5/forextimefxtm5setup.exe
 MT5|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt5/headway5setup.exe
 MT5|HFM|https://download.terminal.free/cdn/web/12018/mt5/hfmarketsglobal5setup.exe
 MT5|IC Markets|https://download.mql5.com/cdn/web/18040/mt5/icmarketssc5setup.exe
 MT5|Instaforex|https://www.instaforex.com/downloads/instaforex5setup.exe
-MT5|JustMarkets|https://download.mql5.com/cdn/web/just.global.markets/mt5/justmarkets5setup.exe
+MT5|JustMarkets|https://download.terminal.free/cdn/web/just.global.markets/mt5/justmarkets5setup.exe
 MT5|Markets4you|https://download.terminal.free/cdn/web/eglobal.trade.and/mt5/eglobaltrade5setup.exe
-MT5|MT5 Umum|https://download.mql5.com/cdn/web/metaquotes.ltd/mt5/mt5setup.exe
+MT5|MT5 Global|https://download.terminal.free/cdn/web/metaquotes.ltd/mt5/mt5setup.exe
 MT5|OctaFX|https://download.terminal.free/cdn/web/octa.markets.incorporated/mt5/octafx5setup.exe
-MT5|Pepperstone|https://download.mql5.com/cdn/web/pepperstone.group.limited/mt5/pepperstone5setup.exe
+MT5|Pepperstone|https://eu-assets.contentstack.com/v3/assets/bltd74737b907a31bbb/blt03faf7c29b2bcc74/pepperstone5setup.exe
 MT5|PU Prime|https://download.mql5.com/cdn/web/pu.prime.ltd/mt5/puprime5setup.exe
 MT5|TradingPro int|https://download.mql5.com/cdn/web/tradingpro.international.limited/mt5/tradingprointernational5setup.exe
 MT5|ThinkMarkets|https://download.terminal.free/cdn/web/tf.global.markets/mt5/thinkmarkets5setup.exe
-MT5|Tickmill|https://download.mql5.com/cdn/web/19497/mt5/tickmill5setup.exe
+MT5|Tickmill|https://download.terminal.free/cdn/web/19497/mt5/tickmill5setup.exe
 MT5|Ultima|https://download.terminal.free/cdn/web/ultima.markets.ltd/mt5/ultimamarkets5setup.exe
 MT5|Valetax Global|https://download.terminal.free/cdn/web/valetax.global.limited/mt5/valetaxglobal5setup.exe
 MT5|Valetax International|https://download.terminal.free/cdn/web/valetax.international.limited/mt5/valetaxintl5setup.exe
