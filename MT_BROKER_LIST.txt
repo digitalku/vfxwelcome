@@ -15,7 +15,7 @@ MT4|FTMO|https://download.terminal.free/cdn/web/ftmo.global.markets/mt4/ftmo4set
 MT4|FX Clearing|https://download.mql5.com/cdn/web/fxcl.markets.ltd/mt4/fxcl4setup.exe
 MT4|FXTM|https://download.mql5.com/cdn/web/16626/mt4/forextimefxtm4setup.exe
 MT4|Headway|https://download.mql5.com/cdn/web/jarocel.pty.ltd/mt4/headway4setup.exe
-MT4|HFM|https://download.mql5.com/cdn/web/7399/mt4/hfmarketssv4setup.exe
+MT4|HFM|https://download.terminal.free/cdn/web/7399/mt4/hfmarketssv4setup.exe
 MT4|IC Markets|https://download.mql5.com/cdn/web/18036/mt4/icmarketssc4setup.exe
 MT4|Instaforex|https://www.instaforex.com/downloads/itc4setup.exe
 MT4|JustMarkets|https://download.mql5.com/cdn/web/just.global.markets/mt4/justmarkets4setup.exe
