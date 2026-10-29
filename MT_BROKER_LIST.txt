@@ -30,7 +30,7 @@ MT4|Valetax|https://download.mql5.com/cdn/web/valetax.international.limited/mt4/
 MT4|Vantage|https://download.mql5.com/cdn/web/vantage.markets.pty/mt4/vantagemarkets4setup.exe
 MT4|VT Markets|https://download.mql5.com/cdn/web/vt.markets.pty/mt4/vtmarkets4setup.exe
 MT4|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt4/weltrade4setup.exe
-MT4|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt4/xmglobal4setup.exe
+MT4|XM Global|https://download.terminal.free/cdn/web/xm.global.limited/mt4/xmglobal4setup.exe
 
 # ── MT5 ──
 MT5|Axi|https://download.mql5.com/cdn/web/axicorp.financial.services/mt5/axi5setup.exe
@@ -63,4 +63,4 @@ MT5|Vantage|https://download.mql5.com/cdn/web/vantage.markets.pty/mt5/vantagemar
 MT5|Versus Trade|https://download.mql5.com/cdn/web/versus.trade.ltd/mt5/versustrade5setup.exe
 MT5|VT Markets|https://download.mql5.com/cdn/web/vt.markets.pty/mt5/vtmarkets5setup.exe
 MT5|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt5/weltrade5setup.exe
-MT5|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt5/xmglobal5setup.exe
+MT5|XM Global|https://download.terminal.free/cdn/web/xm.global.limited/mt5/xmglobal5setup.exe
